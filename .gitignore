@@ -1,0 +1,30 @@
+# IntelliJ IDEA project files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Build directories
+/out/
+target/
+bin/
+build/
+
+# Maven / Gradle cache
+.mvn/
+.gradle/
+**/build/
+
+# Logs
+*.log
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+
+# Backup files
+*~
